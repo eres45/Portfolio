@@ -2,7 +2,15 @@
 Halo semuanya!
 Perkenalkan, saya Eki Zulfar Rachman, dan pada kesempatan kali ini, saya ingin berbagi proyek website portofolio yang telah saya kembangkan.
 
-Tech Stack yang digunakan:
+## 🚀 Featured Projects
+
+1. **Portofolio V5**
+   - Website portofolio pribadi
+   - Menampilkan informasi tentang saya dan proyek-proyek yang telah saya kerjakan
+   - Technologies: ReactJS, Tailwind CSS, AOS, Firebase, Framer Motion, Lucide, Material UI, SweetAlert2
+
+## 🛠️ Tech Stack
+
 - ReactJS
 - Tailwind CSS
 - AOS
@@ -12,8 +20,37 @@ Tech Stack yang digunakan:
 - Material UI
 - SweetAlert2
 
-Link Website:
-https://www.eki.my.id/
+## 🚀 Quick Start
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/EkiZR/Portofolio_V5.git
+   ```
+
+2. **Install dependencies:**
+
+   ```bash
+   npm install
+   ```
+   atau dengan cara
+   
+    ```bash
+   npm install --legacy-peer-deps
+   ```
+
+3. **Run the development server:**
+   
+   ```bash
+   npm run dev
+   ```
+
+## 📫 Contact
+
+- Email: [your-email]
+- GitHub: [github.com/EkiZR](https://github.com/EkiZR)
+
+## 🙏 Acknowledgments
 
 We would appreciate it if you would like to use this project, please include our credit in your use. Thank You! 🙏
 
@@ -100,10 +137,3 @@ Untuk melakukan konfigurasi Firebase dalam project ini, ikuti langkah berikut:
 
 6. **Buka file firebase.js dan firebase-comment.js** 
    - Ganti isi firebaseConfig dengan config firebase anda
-
-
-
-    
-      
-
-
